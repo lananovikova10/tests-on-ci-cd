@@ -7,7 +7,7 @@ When [presenting a demo to others](cool.md#anchor), follow these steps to ensure
     - Organize your content in a logical and easy-to-follow sequence.
 
 2. **Set Up the Environment:**
-    - Choose a suitable location with proper lighting and minimal background noise.
+    - Choose a suitable place with proper lighting and minimal background noise.
     - Ensure that all necessary equipment, devices, and software are set up and functioning correctly.
    
 ![env-setup.png](env-setup.png) {border-effect="dotted"}
